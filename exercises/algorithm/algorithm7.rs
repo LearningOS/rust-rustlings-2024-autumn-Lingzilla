@@ -102,7 +102,7 @@ impl<'a, T> Iterator for IterMut<'a, T> {
 fn bracket_match(bracket: &str) -> bool
 {
 	//TODO
-	true
+	// true
 }
 
 #[cfg(test)]
